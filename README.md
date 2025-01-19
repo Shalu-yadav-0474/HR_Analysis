@@ -131,6 +131,6 @@ ________________________________________
  * See the raw data in the Excel workbook.
  * See my SQL queries in the SQL file.
  * See the notebook for data cleaning, visualization, and analysis in the Python Notebook.
- * For more of my projects and data journey, visit my portfolio website and reach out!
+ * For more of my projects and data journey, [visit my portfolio website and reach out!](https://github.com/Shalu-yadav-0474 "visit my portfolio website and reach out!")
 
     
