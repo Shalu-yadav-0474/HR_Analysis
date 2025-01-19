@@ -1,11 +1,27 @@
 # HR_Analysis
+## Project Background
+####  The HR analysis project is aimed at understanding key employee metrics to drive better organizational performance and employee satisfaction. By analyzing employee demographics, educational backgrounds, job roles, and department-specific data, we seek to identify areas that impact productivity and work-life balance. This includes examining performance ratings, overtime patterns, and satisfaction levels across diverse age groups, genders, and roles. The insights gained will guide targeted interventions, such as flexible work policies, training programs, and diversity initiatives, fostering a supportive and inclusive work environment. Additionally, the analysis will enable HR to optimize resource allocation, enhance employee engagement, and implement performance-driven reward systems, ensuring the alignment of individual contributions with organizational goals. Ultimately, this project aims to create a data-driven foundation for strategic HR management and sustainable workforce development.
+
+* Table of Contents
+   * Executive Summary
+   * Insights Deep Dive
+     * Employee Demographics
+     * Age Group Analysis
+     * Education Field, Job Roles, and Department Analysis
+     * Overtime and Salary Analysis
+     *  Work-Life and Satisfaction Analysis
+   * Refund Rates
+   * Recommendations
+   * Appendix
+
 ## Executive Summary
 #### This report presents a comprehensive analysis of the organization’s 1,470 employees, focusing on demographics, departmental distribution, education, job roles, salary, overtime, and satisfaction metrics. Gender representation includes 651 males, 675 females, 20 preferring not to disclose, and 124 non-binary employees. Most employees hold a Bachelor’s degree (572), while those with Doctorates earn the highest salaries. The technology department dominates with 961 employees (65%), followed by sales with 446. Key job roles include sales executives (327) and software engineers (294). Employees aged 25-34 are the largest group across departments and perform the most overtime, with software engineers contributing the highest overtime hours. Human Resources leads in average salaries at ₹119,698, followed by sales and technology. Satisfaction ratings show the highest scores in sales (3.59) and among female employees (3.59), with overall work-life balance ratings peaking in the 45-54 age group (3.44). These insights highlight critical areas for workforce development, including improving work-life balance and aligning incentives with employee contributions.
 
+![ER](https://github.com/user-attachments/assets/48debd81-301d-4306-a5a5-3e38dba2f516)
+###  HR ER dataset
 ## Insights deep dive
 
-## Employee Analysis Report
-### Employee Demographics
+### 1. Employee Demographics
 * The organization comprises a total of 1,470 employees with the following gender distribution:
   * 651 male employees
   * 675 female employees
@@ -20,7 +36,7 @@
 * Employees with Doctorates earn the highest salaries compared to those with lower education levels. 
 * Notably, 128 employees have been with the organization for 10 years.
 ________________________________________
-### Age Group Analysis
+### 2. Age Group Analysis
 #### Employees are categorized into four age groups: 18-24, 25-34, 35-44, and 45-54 years.
 * Department-wise Distribution:
    * Technology Department: 18-24 (348), 25-34 (392 – highest), 35-44 (169), 45-54 (52).
@@ -31,7 +47,7 @@ ________________________________________
    * Married Employees: Most are aged 25-34 (281).
    * Divorced Employees: Most are aged 25-34 (108).
 ________________________________________
-### Education Field, Job Roles, and Department Analysis 
+### 3. Education Field, Job Roles, and Department Analysis 
 *	Departmental Employee Count:
     * Technology: 961 employees (65% of total)
 	 * Sales: 446 employees
@@ -45,7 +61,7 @@ ________________________________________
 	 * Information Systems: 363 employees
 	 * Marketing: 325 employees
 ________________________________________
-### Overtime and Salary Analysis
+### 4. Overtime and Salary Analysis
 *	Overtime Trends by Age Group:
     *	25-34: 175 employees
     *	18-24: 114 employees
@@ -60,7 +76,7 @@ ________________________________________
     *	Sales: ₹119,117
     *	Technology: ₹109,655
 ________________________________________
-### Work-Life and Satisfaction Analysis
+### 5. Work-Life and Satisfaction Analysis
 * Work-Life Balance by Age Group:
     * 18-24: 3.40
     *  25-34: 3.43
@@ -111,6 +127,10 @@ ________________________________________
    * Develop an employee experience dashboard that tracks key metrics like satisfaction, engagement, and productivity in real time.
    * Leverage exit interview data to understand attrition drivers and proactively address organizational issues.
 
-     
+ ## Appendix
+ * See the raw data in the Excel workbook.
+ * See my SQL queries in the SQL file.
+ * See the notebook for data cleaning, visualization, and analysis in the Python Notebook.
+ * For more of my projects and data journey, visit my portfolio website and reach out!
 
     
