@@ -66,7 +66,14 @@ ________________________________________
     *  25-34: 3.43
     *	35-44: 3.40
     *	45-54: 3.44 (highest)
-*	Satisfaction Ratings by Department:
+* Satisfaction Ratings by Department:
+    * Sales: 3.59 (highest)
+    * Technology: 3.57
+* Human Resources: 3.55
+    *	Satisfaction Ratings by Gender:
+    *	Female: 3.59 (highest)
+    *	Male: 3.57
+    *	Non-binary: 3.54
 
 ## Recommendations to Improve Employee Performance, Work-Life Balance, and Overall Satisfaction
  1. Enhance Work-Life Balance
@@ -106,10 +113,4 @@ ________________________________________
 
      
 
-    * Sales: 3.59 (highest)
-    * Technology: 3.57
-*	Human Resources: 3.55
-    *	Satisfaction Ratings by Gender:
-    *	Female: 3.59 (highest)
-    *	Male: 3.57
-    *	Non-binary: 3.54
+    
