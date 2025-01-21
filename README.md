@@ -2,6 +2,15 @@
 ## Project Background
 ####  The HR analysis project is aimed at understanding key employee metrics to drive better organizational performance and employee satisfaction. By analyzing employee demographics, educational backgrounds, job roles, and department-specific data, we seek to identify areas that impact productivity and work-life balance. This includes examining performance ratings, overtime patterns, and satisfaction levels across diverse age groups, genders, and roles. The insights gained will guide targeted interventions, such as flexible work policies, training programs, and diversity initiatives, fostering a supportive and inclusive work environment. Additionally, the analysis will enable HR to optimize resource allocation, enhance employee engagement, and implement performance-driven reward systems, ensuring the alignment of individual contributions with organizational goals. Ultimately, this project aims to create a data-driven foundation for strategic HR management and sustainable workforce development.
 
+## Stakeholders questions
+1. Can we analyze the gender distribution of employees in the dataset?
+2. What are the education levels of the employees?
+3. How do employee age groups vary across different departments?
+4. What is the age group distribution based on employees’ marital status?
+5. How many employees work overtime, and what are their job roles?
+6. What is the average salary of employees in each department?
+7. How does the satisfaction rating differ across departments?
+8. What is the average work-life balance rating for employees in different age groups?
 * Table of Contents
    * Executive Summary
    * Insights Deep Dive
