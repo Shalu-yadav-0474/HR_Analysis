@@ -85,8 +85,8 @@ ________________________________________
 * Satisfaction Ratings by Department:
     * Sales: 3.59 (highest)
     * Technology: 3.57
-* Human Resources: 3.55
-    *	Satisfaction Ratings by Gender:
+    * Human Resources: 3.55
+* Satisfaction Ratings by Gender:
     *	Female: 3.59 (highest)
     *	Male: 3.57
     *	Non-binary: 3.54
